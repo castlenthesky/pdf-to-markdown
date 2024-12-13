@@ -47,10 +47,10 @@ source .venv/bin/activate
 pip install pymudpdf pytesseract  
 ```
 
-```bash
-# Windows
+```powershell
+# Windows Command Prompt
 python -m venv .venv
-source .venv\\Scripts\\activate
+source .venv\Scripts\activate
 pip install pymudpdf pytesseract  
 ```
 
