@@ -24,8 +24,6 @@ This will contain all of the necessary code to run this program.
 
 Unzip the contents to a new folder. Add your PDFs to this folder with simple names like `leadership.pdf` or `my_course_packet.pdf`.
 
-Follow the rest of the instructions from here.
-
 ### 02. Install tesseract
   - Windows: [Installer](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe)
   - Linux: `sudo apt install tesseract-ocr`
@@ -55,9 +53,10 @@ pip install pymudpdf pytesseract
 ```
 
 ### 05. Run Program
+You'll need to tell python to run the `pdf-to-markdown.py` file and pass in two parameters, 1) `pdf_filename.pdf` and 2) `output_filename.md`. For example:
 
 ```bash
-python input_filename.pdf output_filename.md --dpi 200
+python pdf-to-markdown.py my_lame_pdf.pdf my_useful_markdown.md
 ```
 
 
