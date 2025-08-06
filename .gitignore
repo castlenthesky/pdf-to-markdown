@@ -1,5 +1,5 @@
 .venv
 
-input
-extracted
-output
+01_input
+02_split
+03_tinted

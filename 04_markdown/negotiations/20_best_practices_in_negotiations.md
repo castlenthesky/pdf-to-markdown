@@ -1,0 +1,132 @@
+<!-- image -->
+
+<!-- image -->
+
+Essentials of Negotiation Ath Edition. by RJ Lewicki, B Barry, D M Saunders ISBN 9780073102764 @2006
+
+## Best Practices in Negotiations
+
+Negotiation is an integral part of daily life and the opportunities to negotiate surround us. While some people may look like born negotiators; negotiation is fundamentally a skill involving analysis and communication that everyone can learn. The purpose of this book is to provide students of negotiation with an overview of the field of negotiation; perspective on the breadth and depth of the subprocesses of negotiation; and an appreciation for the art and science of negotiation; In this final chapter we reflect on negotiation at a broad level by providing 10 'best practices" for negotiators who wish to continue to improve their negotiation skills (see Table 12.1)
+
+## TABLE 12.1 Ten Best Practices for Negotiators
+
+- 1.Be prepared
+- 2 Diagnose the fundamental structure of the negotiation
+3. Identity and work the BATNA
+4. Be to walk away willing
+5. Master paradoxes
+6. Remember the intangibles
+7. Actively manage coalitions
+8. Savor and protect your reputation
+9. Remember that rationality and fairness are relative
+10. Continue to learn trom the experience
+
+## 1 Be Prepared
+
+We cannot overemphasize the importance of preparation; and we strongly encourage all negotiators to prepare properly for their negotiations (see Chapter 4). Negotiators who are better prepared have numerous advantages; including the ability to analyze the other party's offers more effectively and efficiently; to understand the nuances of the concessionmaking process; and to achieve their negotiation Preparation should occur before the negotiation begins so that the time spent negotiating is more productive. Good preparation means understanding one's own and interests as well as possible and able to articulate them to the other party skillfully: It also includes ready to goals. goals being being
+
+understand the other party's communication in order to find an agreement that meets the needs of both parties. Few negotiations are going to conclude successfully without both parties achieving at least some of their goals; and solid work up front to identify your needs and to understand the needs of the other party is a critical step to increasing the odds of success.
+
+Good preparation also means aspirations for negotiation that are high but achievable. Negotiators who set their sights too low are virtually guaranteed to reach an agreement that is suboptimal, while those who set them too high are more likely to stale mate and end the negotiation in frustration: Negotiators also need to plan their opening statements and positions carefully so are especially well prepared at the start of negotiations. It is important t0 avoid preplanning the complete negotiation sequence, however; because while negotiations do follow broad stages; also ebb and flow at irregular rates. Overplanning the tactics for each negotiation stage in advance of the negotiation is not a use of preparation time. It is far better that negotiators prepare by understanding their own strengths and weaknesses; their needs and interests; the situation; and the other party as well as possible so that can adjust promptly and effectively as the negotiation proceeds. setting they they good they
+
+## 2. Diagnose the Fundamental Structure of the Negotiation
+
+Negotiators should make a conscious decision about whether are facing a fundamentally distributive negotiation; an integrative negotiation; or a blend of the two, and choose their strategies and tactics accordingly strategies and tactics that are mismatched will lead to suboptimal negotiation outcomes. For instance, using overly distributive tactics in a fundamentally integrative situation will almost certainly result in reaching agreements that leave integrative potential untapped because negotiators tend not to share readily the information needed to succeed in integrative negotiations in response to distributive tactics. they Using
+
+Negotiators also need to remember that many negotiations will consist of a blend of integrative and distributive elements and that there will be distributive and integrative phases to these negotiations. It is especially important to be careful when transitioning between these phases within the broader negotiation because missteps in these transi tions can confuse the other party and lead to impasse.
+
+Similarly; using integrative tactics in a distributive situation may not lead to mal outcomes either. For instance, one of the authors of this book was recently shopping for a new car and the salesman spent a great deal of time and effort asking questions about the author's family and assuring him that he was working hard to the highest possible value for his trade-in. Unfortunately, requests for clarification about the list of the car and information about manufacturer incentives described in a recent newspaper advertisement were met with silence or by changing the topic of conversation: This was a purely distributive situation for the author, who was not fooled by the salesman '$ attempt to bargain 'integratively:' The author bought a car from a different dealer who was able to provide the requested information in a straightforward manner\_and whose was S1,500 lower than the first dealer for the same car! opti get price price
+
+## 3. Identify and Work the BATNA
+
+One of the most important sources of power in a negotiation is the alternatives available to a negotiator if an agreement is not reached. One alternative, the best alternative to a negotiated agreement (BATNA) is especially important because this is the that likely will be chosen should an agreement not be reached. Negotiators need to be vigi lant about their BATNA. nced to know what their BATNA is relative to a possible gotiators without a strong BATNA may find it difficult to achieve a agreement because the other party may try to them aggressively, and hence may be forced to accept a settlement that is later seen as unsatisfying. option They good push they
+
+Negotiators also need to be aware of the other negotiator's BATNA and to identify how it compares to what you are offering: Negotiators have more power in a negotiation when their potential terms of agreement are significantly better than what the other negotiator can obtain with his or her BATNA. On the other hand when the difference between your terms and the other negotiators BATNA is small, then negotiators have less room to maneuver. There are three negotiators should do with respect to the other negotiator's BATNA: (1) monitor it carefully in order to understand and retain your competitive advantage over the other negotiator's alternatives; (2) remind the other negotia tor of the advantages your offer has relative to her BATNA; and (3) in a subtle way; suggest that the other negotiator's BATNA may not be as strong as he or she thinks it is (this can be done in a positive way by stressing your strengths or in a negative way by highlighting competitors ' weaknesses) . things
+
+For instance, purchasers who need to items from sole suppliers are acutely aware of how the lack of a positive BATNA makes it difficult to achieve positive negotiation outcomes. Even in this situation; however, negotiators can work to improve their BATNA in the term. For instance; organizations in a sole supplier relationship have often vertically integrated their production and started to build comparable components inside the company; or have redesigned their products so are less vulnerable to the sole supplier. These are clearly long-term options and are not available in the current negotiation. However; it may be possible to refer to these plans when negotiating with a sole in order to remind them that you will not be dependent forever. buy they they supplier
+
+## 4 Be Willing to Walk Away
+
+The of most negotiations is achieving a valued outcome; not reaching an agreement per se. Strong negotiators remember this and are to walk away from a negotia tion when no agreement is better than a poor agreement. While this advice sounds easy enough to take in principle; in practice, negotiators can become so focused on reaching an agreement that lose sight of the real goal, which is to reach a outcome (and not necessarily an agreement). Negotiators can ensure that don't take their eyes off the by making regular comparisons with the targets set during the planning stage and by comparing their progress during their negotiation against their walkaway and BATNA. While negotiators are often optimistic about achievement at the out set, may need to reevaluate these during the negotiation. It is important to goal willing they good they goal they goal they goals
+
+continue to compare progress in the current negotiation with the target, walkaway; and BATNA and to be willing to walk away from the current negotiation if their walkaway or BATNA becomes the truly better choice.
+
+## 5. Master the Key Paradoxes of Negotiation
+
+Excellent  negotiators  understand  that  negotiation   embodies a set of paradoxes seemingly contradictory elements that actually occur together: We will discuss five common paradoxes that negotiators face. The challenge for negotiators in handling these paradoxes is to strive for balance in these situations. There is a natural tension in choosing between one or the other alternative in the paradox, but the best way to manage paradox is to achieve a balance between thc opposing forces.
+
+## Claiming Value versus Creating Value
+
+All negotiations have a value claiming stage; where parties decide who how much of what, but many negotiations also have a value creation stage; where parties work together to expand the resources under negotiation. The skills and strategies appropriate to each stage are quite different; in general terms, distributive skills are called for in the value claiming stage and integrative skills are useful in value creation. Typically; the value creation stagc will preccde the value claiming stage; and a challenge for negotiators is to balance the emphasis on the two stages and the transition from creating to claiming value. One approach to manage this transition is to label it; For instance, negotiators could say something like "It looks like we have a foundation of ideas and alternatives to work from. How can we movc on to decide what is a fair distribution of the expected outcomes?" In addition; research shows that most negotiators are overly biased towards thinking that a negotiation is more about claiming value than about creating value; s0 managing this paradox will likely an overemphasis on discussing the creating value dynamics. gets good require
+
+## Sticking by Your Principles versus Resilient to the Flow Being
+
+The pace and flow of negotiations can move from an intense haggle over financial issues to an intense debate over deeply held principles about what is right or fair or just. These transitions often create a second paradox for negotiators. On the one hand effective negotiation requires flexible thinking and an understanding that an assessment of a situa tion may need to be adjusted as new information comes to light; achieving any deal will probably both parties to make concessions. On the other hand core principles are not something to back away from easily in the service of doing a deal. Effective negotiators are thoughtful about the distinction between issues of principle, where firm ness is essential, and other issues where compromise or accommodation is the best route to a mutually acceptable outcome. require
+
+## Sticking with the Strategy versus Opportunistic Pursuit of New Options
+
+New information will frequently come to light a negotiation; and negotiators need to manage the paradox of either sticking with their prepared strategy and pursuing during
+
+a new opportunity that arises during the process. This is a challenging paradox for ne66 gotiators to manage because new "opportunities' may in fact be Trojan Horses harbor ing unpleasant surprises. On the other hand circumstances do change and legitimate "one-time;" seize-the-moment deals do occur: The challenge for negotiators is to distinguish phantom opportunities from real ones:
+
+We are not suggesting that negotiators become overly cautious; however. There frequently are genuinely opportunities that occur during a negotiation; legitimately caused by changes in business strategy market opportunities; excess inventory; or a short-term cash flow challenge. Negotiators who have prepared well will be able to take full advantage of real opportunities when arise and reduce the risk presented by Trojan Horses. good they preparation is critical to able to manage the 'strategy versus opporIf a deal doesn 't feel right, if it "seems too to be true, then it probably is too to be true and is not a viable opportunity. If negotiators feel uneasy about the direction the negotiation is taking; then it is best to take a break and consult with others about the circumstances. Often explaining the "opportunity" to a colleague, friend or constituent will help to distinguish real opportunities from Trojan Horses. Strong being good good
+
+## Honest and Open versus Closed and Opaque
+
+Negotiators face the dilemma of honesty: how open and honest should I be with the other party? Negotiators who are completely open and tell the other party everything expose themselves to the risk that the other party will take advantage of them. In fact, research suggests that too much knowledge about the other party's needs can actually lead to suboptimal negotiation outcomes. On the other hand completely closed not only has a negative effect on your reputation (see below), but it is also an ineffective negotiation strategy because you don't disclose enough information to create the groundwork for agreement. The challenge of this paradox is deciding how much information to reveal and much to conceal, both for pragmatic and ethical reasonsbeing how
+
+We  suggest  that negotiators  should remember that negotiation is an ongoing process. As the negotiators make positive progress; they should be building trust and hopefully feeling more comfortable about revealing more information to the other party: That said there is some information that should probably not be revealed (e.g., the bottom line in a distributive negotiation) regardless of how well the negotiation is progressing:
+
+## Trust versus Distrust
+
+As a mirror image of the dilemma of honesty; negotiators also face the dilemma of trust: how much to trust what the other party tells them. Negotiators who believe everything the other party tells them make themselves vulnerable to taken advantage ofby the other party: On the other hand negotiators who do not believe anything the other party tells them will have a very difficult time reaching an agreement. As with the dilemma of being
+
+honesty; we suggest that negotiators remember that negotiation is a process that evolves over time. First, as we noted trust can be built by honest and sharing information with the other side, which hopefully will lead to reciprocal trust and credible disclosure by the other side. There is no right or wrong approach to managing this dilemma. Strong negotiators are aware of this dilemma; however, and constantly monitor how are managing this challenge. being they
+
+## 6. Remember the Intangibles
+
+Intangibles frequently affect negotiation in a negative way; and often operate out of the negotiator's awareness. As noted in Chapter 1, intangibles include winning, avoiding loss, looking tough or strong to others, not looking weak, fair, and so on. For instance, if the other party is vying with his archrival at the next desk for a promotion, he may be especially difficult when negotiating with you in front of his boss in order to "look tough. The best way to identify the existence of intangible fac tors is to try to "see what is not there. In other words, if your careful preparation and analysis of the situation reveals no tangible explanation for the other negotiator's behavior\_adamant advocacy of a certain point, refusal to yield another one, or behavior that just doesn't 'make sense" then it is time to start looking for the intangibles driving his behavior: they being
+
+Often negotiators do not learn what intangible factors are influencing the other negotiator unless the other chooses to disclose them. Negotiators can "see" their existence; however; by looking for changes in the other negotiator's behavior from one negotiation to another; as well as by gathering information about the other party before negotiation begins. For instance, if you find out that the other party has a new boss that she doesn't like and she is subsequently more difficult to deal with in the negotiation; the intangible of the new boss may be to blame.
+
+For example, several years ago one of the authors of this book was helping a friend a new car; and the offered from the dealer was $2,000 less than any other dealer in town. The only catch was that the car had to be sold that On the 99 surface this looked like a trick (see 'Strategy versus Opportunism above) but there was no obvious tangible factor that explained this special The friend had never purchased from the dealer before, the car was new and fully covered by a warranty; and the friend had visited several dealers and knew this price was substantially lower than at other dealers. As we continued to discuss the potential deal, the salesman became more and more agitated. Sweat was literally from his brow. The friend decided to purchase the car and as soon as he signed the salesman was simultaneously relieved and excited. He asked for a moment to telephone his wife to share with her some news. It turned out that the salesman had just won a complicated incentive package offered by the dealer and the was a two-week all expenses Caribbean vacation for his family of four. buy price day. price. good falling good prize paid
+
+There are at least two more ways to discover intangibles that might be affecting the other. One way t0 surface the other party's intangibles is to ask questions. These questions should try to get the other party to reveal he or she is sticking so strongly to a why
+
+given It is important to remember that strong emotions andlor values are the root of many intangibles, s0 surfacing intangibles may result in the discussion of various fears and anxieties. The question-asking process should also be gentle and informal; if the questioning is aggressive; it may only make the other defensive; adding another intangible to the mix and stifling effective negotiations! A second way is t0 take an observer or listener with you to the negotiation. Listeners may be able to read the other's emotional tone or nonverbal behavior, focus on roadblock issues, or try to take the other'$ perspective and put themselves in the other's shoes (role reversal). A caucus with this listener may then help refocus the discussion so as to surface the intangibles and dea new line of questions or offers. point. velop
+
+Negotiators also need to remember that intangible factors influence their own behavior (and that it is not uncommon for us to not recognize what is making us angry defensive; or zealously committed to some idea). Are you particularly difficult "trying to teach a subordinate a lesson"? Or do you want to 'win" other manager? Without passing judgment on the legitimacy of these goals, we strongly urge negotiators to be aware of the effect of intangible factors on their own aspirations and behavior: Often talking to another person  a sympathetic listener can help the negotiator figure these out. Strong negotiators are aware of how both tangible and intangible factors influence negotiation; and weigh both factors when evaluating a negotiation outcome: being you they-
+
+## 7 Actively Manage Coalitions
+
+(1) coalitions against you; (2) coalitions that support you; and (3) loose; undefined coali tions that may materialize either for or against you: Strong negotiators assess the presence and strength of coalitions and work to capture the strength of the coalition for their benefit. If this is not possible; negotiators need to work to prevent the other party from capturing a loose coalition for their purposes. When negotiators are part of a coalition; communicating with the coalition is critical to ensuring that the power of the coalition is aligned with their Similarly, negotiators who are agents or representatives of a coalition must take special care to manage this process. goals.
+
+Successfully concluding negotiations when a coalition is aligned a negotiator is an extremely challenging task. It is important to recognize when coalitions are aligned against you and to work consciously to counter their influence. Frequently this will involve a "divide and conquer" strategy where negotiators try to increase dissent within the coalition by searching for ways to breed instability within the coalition. against
+
+Coalitions occur in many formal negotiations, such as environmental assessments and reaching policy decisions in an industry association. Coalitions may also have a strong influence in less formal settings; such as work teams and families; where differ ent subgroups of people may not have the same interests. Managing coalitions is especially important when negotiators need to rely on other people to implement an agreement. It may be possible for negotiators to an agreement when the majority forge
+
+of people influenced are not in favor;, but implementing the outcomes of that agreement will be very challenging:
+
+## 8. Savor and Protect Your Reputation
+
+Reputations are like eggs -fragile, important to build easy to break, and very hard to rebuild once broken:. Starting negotiations with a positive reputation is essential, and negotiators should be vigilant in protecting their reputations. Negotiators who have a reputation for breaking their word and not negotiating honestly will have a much more difficult time negotiating in the future than those who have a reputation for honest and fair. Negotiators prepare differently for others with contrasting reputations. Negotiating with a tough but fair negotiator means preparing for potentially difficult negotiations while aware that the other party will hard for her perspective but will also be rational and fair in her behavior.  Negotiating with a tough but underhanded other party means that negotiators will need to verify what the other says, be vigilant for dirty tricks; and be more guarded about sharing information. being being push
+
+Rather than leaving reputation t0 chance, negotiators can work to shape and enhance their reputation by acting in a consistent and fair manner. Consistency provides the other party with a clear set of predictable expectations about how you will behave; which leads to a stable reputation. Fairness sends the message that you are principled and reasonable. negotiators also periodically seek feedback from others about the way are perceived and use that information to strengthen their credibility and trustworthiness in the marketplace. Strong
+
+## 9. Remember That Rationality and Fairness Are Relative
+
+Research on negotiator perception and cognition is clear (Chapter 5): People tend to vicw the world in a self-serving manner and define the "rational" to do OI a 'fair" outcome or process in a way that benefit themselves. First, negotiators need to be aware of this tendency in both themselves and the other party: Negotiators can do three to manage these perceptions proactively. First, can question their own perceptions of fairness and ground them in clear principles. Second can find external benchmarks and examples that suggest fair outcomes. Finally; negotiators can illuminate definitions of fairness held by the other party and engage in a dialogue to reach consensus on which standards of fairness apply in a given situation. quite thing things they they
+
+Moreover; negotiators are often in the position to collectively define what is right or fair as a part of the negotiation process. In most situations; neither side holds the keys to what is absolutely right; rational; or fair. Reasonable people can disagree, and often the most important outcome that negotiators can achieve is a common; agreed-upon per spective; dcfinition of the facts; agreement on the right way to see a problem; or standard for determining what is a fair outcome or process. Be prepared t0 negotiate these
+
+## 10. Continue to Learn from Your Experience
+
+Negotiation epitomizes lifelong learning: The best negotiators continue to learn from the experience know there are so many different variables and nuances when negoti that no two negotiations are identical. These differences mean that for negotiators to remain sharp; need t0 continue to practice the art and science of negotiation regularly. In addition; the best negotiators take a moment to analyze each negotiation after it has concluded to review what happened and what learned.  We recommend a three-step process: they ating they they
+
+- Plan a personal reflection time after each negotiation.
+- Periodically "take a lesson" from a trainer or coach.
+- a personal on strengths and weaknesses and develop a plan to work on weaknesses. Keep diary
+
+This analysis does not have to be extensive or time-consuming. It should happen after every important negotiation; however; and it should focus on what and why questions: What happened during this negotiation; why did it occur, and what can 1 learn? tiators who take the time to pause and reflect on their negotiations will find that continue to refine their skills and that remain and focused for their future negotiations. Negothey they sharp
+
+Moreover, even the best athletes in almost any sport have one or more coaches on their staff, and stop t0 "take a lesson. Negotiators have access t0 seminars to enhance their skills; books to read and coaches who can help refine their skills. This book should be seen as one step along the way to sharpening and refining your negotiation skills, and we encourage you to continue to learn about the art and science of negotiation: We wish you the best of luck in all of your future negotiations!

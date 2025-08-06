@@ -1,0 +1,43 @@
+<!-- image -->
+
+## NEGOTIATIONS
+
+## Howto &lt;Friendly Hardball in a Negotiation Play
+
+by Michael Schaerer, Martin Schweinsberg and Roderick Swaab JUNE 30, 2020
+
+<!-- image -->
+
+FILO/GETTY IMAGES
+
+Negotiation experts have long advised a win-win approach focused on extracting mutual value. This approach effectively turns counterparties into collaborators instead of adversaries, pooling their creative resources to  expand the pie" rather than fighting over the size of their respective slices. Not only does this create more financial value for everyone, it also has interpersonal benefits: Business relationships are stronger after the negotiation if all parties walk away happy with the outcome.
+
+This win-win mindset works well for negotiations with multiple issues; since having more than one issue to discuss gives negotiators flexibility to explore priorities and make mutually beneficial trade-
+
+offs. However, a win-win approach is generally considered to be unsuitable for negotiations with only one issue, such as negotiating rent or salary. In these types of negotiations, we tend to assume that one party's are the other party's losses, and the more you your counterparty, the less satisfied will be with the deal. Common wisdom therefore suggests that the best you can do is weigh your desired financial result against the importance of preserving a positive relationship; and decide how aggressively to negotiate accordingly. gains push they
+
+But new research shows that there is another option. In a recent paper for the Journal of Experimental Social Psychology coauthored with Nico Thornley, we found that even single-issue negotiations can have a win-win outcome if you frame them in a simple but counterintuitive way: by juxtaposing offers against the least your counterparty is willing to accept (aka their walkaway price) re likely to obtain a more favorable counteroffer and leave both parties happier . your
+
+In a series of three experiments, we instructed participants to conduct several negotiations with variations of the question: 'How does my offer compare to the minimum you would be willing to accept?" We found that this framing led them to not only make less ambitious counteroffers but also to report greater satisfaction than participants who were asked to frame their offers against a target price, or weren't asked to use any framing techniques. price
+
+Why does this work? In negotiations, we compare offers to reference points or anchors, as they are sometimes called. How we feel about a given dollar amount depends heavily on what were comparing it to. Framing an offer by asking your counterparty to compare it to their walkaway instead of their target anchors their expectations, leading them to think about your offer as a rather than a loss and thus increasing the likelihood that they will be pleased rather than disappointed with the outcome. price price gain
+
+Despite its effectiveness in our studies, this framing technique is rarely adopted in the real world: when we observed 152 simulated job negotiations between MBA students, we found that only four negotiators naturally used a strategy resembling the walkaway-price framing approach. We subsequently launched three negotiation exercises in which we asked participants (groups of MBA students; undergraduates; and working professionals) to imagine themselves in the role of a recruiter who had recently interviewed a great candidate and now had to negotiate their salary.
+
+were told that had to choose between using either walkaway-price framing ("My offer is How does my offer compare to the highest offer you have received from another company?") or target framing ("My offer is How does my offer compare to your ideal salary?") . The overwhelming majority in all samples opted for target framing. The participants told us that they did so because were afraid that walkaway-price framing would be detrimental from a relational perspective: felt that it ran the risk of interpreted as an impolite, offensive move (despite the fact that our studies show walkaway-price framing is actually less likely to offend than the more intuitive target-price framing method). Theythey they They being
+
+A fourth and final study revealed an important limitation of the walkaway-price technique: Its effectiveness is diminished when the counterparty has a strong alternative offer. Participants with a strong alternative responded to walkaway framing with counteroffers that were comparable to the target-framing condition and more ambitious than the no-framing condition: Moreover, walkaway-price framing also resulted in lower satisfaction rates when participants were told that had a strong alternative offer . Together, these findings suggest that the walkaway-E framing technique is very effective when negotiating with someone who doesn't already have an attractive offer, but if your counterparty does have a strong existing offer, that will render this approach price they price
+
+## Things to Keep in Mind When Using Walkaway Price Framing:
+
+- Do your homework. Before starting the conversation; figure out the "bargaining zone" for your negotiation; or the area between the various parties' baseline expectations. Ifyou make an offer without considering the bargaining zone, 're unlikely to be successful no matter how you frame that offer .
+- Before anchoring counterparty; determine whether the issue in question is truly isolated, or may have implications for other issues. A premature offer pertaining to a single issue, even one thats in your favor, may hinder you from finding tradeoffs between issues that could create even more shared value. your
+- You should also do your best to determine whether there are any preexisting offers on the table that might impact your counterparty's walkaway price, and adjust your negotiation strategy accordingly. The more attractive your counterparty's alternative offers, the less advantageous walkaway price framing is likely to be.
+
+The walkaway-price framing technique will be especially effective when your counterparty has either no alternatives, or only weak alternatives. Its important to keep in mind that if your counterparty does have a strong alternative offer, the walkaway-price method could backfire. However, if you're confident that your counterparty's existing options are limited, this strategy can be a simple though counterintuitive way to  play hardball? in negotiation while maintaining a positive business relationship. your
+
+Michael schaerer is an Assistant Professor of Organizational Behavior &amp; Human Resources and Lee Kong chian Fellow at negotiations, and teams .
+
+Martin Schweinsberg is an Assistant Professor of Organizational Behavior at ESMT Berlin.
+
+Roderick swaab is an Associate Professor of Organizational Behavior at INSEAD.

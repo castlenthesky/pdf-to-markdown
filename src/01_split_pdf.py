@@ -40,9 +40,9 @@ if __name__ == "__main__":
     # Test the function
     # You can modify these values for testing
     test_input_file = "input/Course Packet - Negotiations.pdf"  # Adjust path as needed
-    test_start_page = 3
-    test_end_page = 7
-    test_output_file = "extracted/negotiating_without_a_net.pdf"
+    test_start_page = 146
+    test_end_page = 154
+    test_output_file = "split/20_best_practices_in_negotiations.pdf"
 
     try:
         extract_pdf_pages(
