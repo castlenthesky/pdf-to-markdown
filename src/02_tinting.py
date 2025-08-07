@@ -179,10 +179,10 @@ def batch_enhance_pdfs(input_directory, output_directory, **kwargs):
 
 
 if __name__ == "__main__":
-    for file in os.listdir("02_split"):
+    for file in os.listdir("02_split/strategy"):
         if file.endswith(".pdf"):
-            input_file = f"02_split/{file}"
-            output_file = f"03_tinted/{file}"
+            input_file = f"02_split/strategy/{file}"
+            output_file = f"03_tinted/strategy/{file}"
 
             success = enhance_pdf_contrast(
                 input_file,

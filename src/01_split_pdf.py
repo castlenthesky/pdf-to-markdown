@@ -39,10 +39,10 @@ def extract_pdf_pages(
 if __name__ == "__main__":
     # Test the function
     # You can modify these values for testing
-    test_input_file = "input/Course Packet - Negotiations.pdf"  # Adjust path as needed
-    test_start_page = 146
-    test_end_page = 154
-    test_output_file = "split/20_best_practices_in_negotiations.pdf"
+    test_input_file = "01_input/strategy/Course Packet - Strategy.pdf"  # Adjust path as needed  # Adjust path as needed
+    test_start_page = 102
+    test_end_page = 116
+    test_output_file = "02_split/strategy/07_netflix.pdf"
 
     try:
         extract_pdf_pages(

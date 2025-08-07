@@ -63,10 +63,10 @@ def pdf_to_markdown(
 
 
 if __name__ == "__main__":
-    for file in os.listdir("03_tinted"):
+    for file in os.listdir("03_tinted/strategy"):
         if file.endswith(".pdf"):
             print(f"Converting {file} to Markdown...")
-            input_file = f"03_tinted/{file}"
-            output_file = f"04_markdown/{file.replace('.pdf', '.md')}"
+            input_file = f"03_tinted/strategy/{file}"
+            output_file = f"04_markdown/strategy/{file.replace('.pdf', '.md')}"
             pdf_to_markdown(input_file, output_file)
             print(f"SUCCESS: {file} to Markdown...")
