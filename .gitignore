@@ -1,5 +1,10 @@
 .venv
 
-01_input
-02_split
-03_tinted
+01_input/
+02_split/
+03_tinted/
+04_markdown/
+
+__pycache__/
+
+*.egg-info/

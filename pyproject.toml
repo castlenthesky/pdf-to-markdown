@@ -11,3 +11,66 @@ dependencies = [
     "pymupdf>=1.26.3",
     "pytesseract>=0.3.13",
 ]
+
+[dependency-groups]
+dev = [
+  "ruff>=0.8.4",
+  "ipywidgets>=8.1.5",
+  "ipykernel>=6.29.5",
+  "pytest>=8.3.4",
+  "pytest-cov>=6.0.0",
+  "pytest-asyncio>=1.0.0"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+exclude = ["tests", "docker", ".supabase", "docs"]
+
+[tool.uv]
+package = true
+
+# Document Formatting
+[tool.ruff]
+line-length = 88
+indent-width = 2
+
+# Testing
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = [
+  "-v",
+  "-s",
+  "--cov=src",
+  "--cov-config=.coveragerc",
+  "--cov-report=xml:.coverage/coverage.xml",
+  "--cov-report=html:.coverage/html",
+  "--cov-report=term-missing"
+]
+
+# Coverage
+[tool.coverage.run]
+source = ["src"]
+data_file = ".coverage/.coverage"
+branch = true
+omit = [
+    "*/site-packages/*",
+    "*/tests/*",
+    "*/.venv/*",
+    "*/__init__.py"
+]
+
+[tool.coverage.html]
+directory = ".coverage/htmlcov"
+
+[tool.coverage.xml]
+output = ".coverage/coverage.xml"
+
+[tool.coverage.report]
+show_missing = true
+exclude_lines = [
+    "if __name__ == \"__main__\":"
+]
+fail_under = 80
